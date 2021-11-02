@@ -1,0 +1,11 @@
+{
+  "name": "test_for_course",
+  "version": "1.0.0",
+  "description": "just a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Hello WOrld\")"
+  },
+  "author": "Toyeesh Sinha",
+  "license": "ISC"
+}
